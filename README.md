@@ -14,11 +14,10 @@
 
 ## By the way here are some of my statistics 🚀
 <p align="center">
-  ![oussamaZAAM's github stats](https://github-readme-stats.vercel.app/api?username=oussamaZAAM&show_icons=true&theme=dracula)
   <img src="https://github-readme-stats.vercel.app/api?username=oussamaZAAM&show_icons=true&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
 </p>
 <p align="center">
-  ![oussamaZAAM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaZAAM&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaZAAM&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
 </p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
