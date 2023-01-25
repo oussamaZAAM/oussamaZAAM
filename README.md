@@ -3,10 +3,9 @@
 <a href="https://ibb.co/jz5zkrJ"><img src="https://i.ibb.co/ZSJSzM2/github-Readme.jpg" alt="github-Readme" border="0" width="500"></a>
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
 
-### :smiley_cat: I am a student at SMK Telkom Malang
+### :smiley_cat: I am a student INPT (Institut National de Poste et Télécommunication > Rabat > Morocco)
 
 ### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
