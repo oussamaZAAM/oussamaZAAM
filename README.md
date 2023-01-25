@@ -1,8 +1,8 @@
 <h2> Hello there! I'm oussamaZAAM.</h2>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
-<!-- <a href="https://ibb.co/jz5zkrJ"><img src="https://i.ibb.co/ZSJSzM2/github-Readme.jpg" alt="github-Readme" border="0" width="500"></a> -->
-<a align="center" href="https://imgbb.com/"><img src="https://i.ibb.co/4SjTH5G/228e2fc6817fc97762059df978485effd9d16dca-hq.gif" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0"></a>
+<!-- <a align="center" href="https://ibb.co/jz5zkrJ"><img src="https://i.ibb.co/ZSJSzM2/github-Readme.jpg" alt="github-Readme" border="0" width="500"></a> -->
+<p align="center"><img src="https://i.ibb.co/4SjTH5G/228e2fc6817fc97762059df978485effd9d16dca-hq.gif" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0"></p>
 
 ### :smiley_cat: I am a student at INPT (Institut National de Poste et Télécommunication) > Rabat > Morocco
 
