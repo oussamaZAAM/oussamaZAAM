@@ -1,6 +1,10 @@
 <h1 align="center"> Hello there! I'm Oussama ZAAM.</h1>
 
-<h3 align="center">🚩A Web Developer , a Software Engineering Student , MERN / MEAN Stack Developer and Cloud Computing Student !🚩</h3>
+<h3 align="center">🚩A Web Developer , a Software Engineering Student , ...🚩</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Software+Engineering+Student;MERN/MEAN+Stack+Developer;UX/UI+Design+Student;Cloud+Computing+Student%20&center=true&width=1000&height=100"></a>
+</p>
+MERN / MEAN Stack Developer and Cloud Computing Student
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
 <!-- <a align="center" href="https://ibb.co/jz5zkrJ"><img src="https://i.ibb.co/ZSJSzM2/github-Readme.jpg" alt="github-Readme" border="0" width="500"></a> -->
