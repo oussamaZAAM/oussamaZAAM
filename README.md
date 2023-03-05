@@ -1,5 +1,7 @@
 <h1 align="center"> Hello there! I'm Oussama ZAAM.</h1>
 
+![](https://komarev.com/ghpvc/?username=oussamaZAAM&color=green&style=for-the-badge)
+
 <h3 align="center">🚩A Web Developer , a Software Engineering Student , ...🚩</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Software+Engineering+Student;MERN/MEAN+Stack+Developer;UX/UI+Design+Student;Cloud+Computing+Student;Japanese+Culture+Enthusiast+⛩️%20&center=true&width=1000&height=100"></a>
@@ -12,10 +14,6 @@
 ### I am a sophomore at INPT (Institut National de Poste et Télécommunication) > Rabat > Morocco 🇲🇦
 
 ### 🏴‍☠️ Hope you like my Portfolio 🏴‍☠️
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-![](https://komarev.com/ghpvc/?username=oussamaZAAM&color=green&style=for-the-badge)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
