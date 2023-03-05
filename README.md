@@ -15,6 +15,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## By the way here are some of my statistics 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oussamaZAAM&show_icons=true&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
