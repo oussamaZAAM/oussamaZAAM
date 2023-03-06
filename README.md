@@ -15,7 +15,7 @@
 ### I am a sophomore at INPT (Institut National de Poste et Télécommunication) > Rabat > Morocco 🇲🇦
 
 ### 🏴‍☠️ Hope you like my Portfolio 🏴‍☠️ : 
-<p style="color:blue" align="center">[My Portfolio](https://zaam.vercel.app)</p>
+[My Portfolio](https://zaam.vercel.app)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
