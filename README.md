@@ -32,7 +32,7 @@
 
 <h3> 👨🏻‍💻 More About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Angular and NextJS Application Development
+- 🔭 &nbsp; I’m currently learning React Native for Mobile Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Back-end and front-end web developer.
@@ -44,11 +44,11 @@
 - 💻 &nbsp; Python | Java 
 - 📙 &nbsp; HTML | CSS | JavaScript | TypeScript
 - 🌐 &nbsp; React | NextJS | Angular 
-- 🗄️ &nbsp; NodeJS | ExpressJS | Spring | Spring Boot
+- 🗄️ &nbsp; NodeJS | ExpressJS | Spring | Spring Boot | Django
 - 📋 &nbsp; MongoDB | MySQL | Postgresql
 - 🔧 &nbsp; Android Studio | IntelliJ | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Canva | Figma | Postman | Swagger | Linux
-- ☁️&nbsp; Heroku | Firebase | Vercel
+- ☁️&nbsp; Heroku | Firebase | Vercel | Railway
 
 
 ## Feel free to connect with me
