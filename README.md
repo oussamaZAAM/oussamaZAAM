@@ -41,14 +41,15 @@
 
 <h3>🛠 Technology Stack</h3>
 
-- 💻 &nbsp; Python | Java 
-- 📙 &nbsp; HTML | CSS | JavaScript | TypeScript
-- 🌐 &nbsp; React | NextJS | Angular 
+- 💻 &nbsp; Python | Java | PHP
+- 📙 &nbsp; HTML | CSS | JavaScript | TypeScript | Blade
+- 🌐 &nbsp; React | NextJS | Angular | Laravel
+- 📱 &nbsp; Java | Kotlin | React Native
 - 🗄️ &nbsp; NodeJS | ExpressJS | Spring | Spring Boot | Django
 - 📋 &nbsp; MongoDB | MySQL | Postgresql
 - 🔧 &nbsp; Android Studio | IntelliJ | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Canva | Figma | Postman | Swagger | Linux
-- ☁️&nbsp; Heroku | Firebase | Vercel | Railway
+- ☁️&nbsp; Heroku | Firebase | Vercel | Railway | Cyclic
 
 
 ## Feel free to connect with me
