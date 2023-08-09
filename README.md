@@ -12,7 +12,7 @@
 <!-- <a align="center" href="https://ibb.co/jz5zkrJ"><img src="https://i.ibb.co/ZSJSzM2/github-Readme.jpg" alt="github-Readme" border="0" width="500"></a> -->
 <p align="center"><img src="https://i.ibb.co/4SjTH5G/228e2fc6817fc97762059df978485effd9d16dca-hq.gif" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0"></p>
 
-### I am a sophomore at INPT (Institut National de Poste et Télécommunication) > Rabat > Morocco 🇲🇦
+### I am a senior at INPT (Institut National de Poste et Télécommunication) > Rabat > Morocco 🇲🇦
 
 ### 🏴‍☠️ Hope you like my Portfolio 🏴‍☠️ : 
 [My Portfolio](https://zaam.vercel.app)
