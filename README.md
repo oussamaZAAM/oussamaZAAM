@@ -21,10 +21,13 @@
 
 ## By the way here are some of my statistics 🚀
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamaZAAM&show_icons=true&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamaZAAM&show_icons=true&theme=dracula&locale=en&layout=compact" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaZAAM&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oussamaZAAM&theme=dracula&card_width=500" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamaZAAM&show_icons=true&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
 </p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
